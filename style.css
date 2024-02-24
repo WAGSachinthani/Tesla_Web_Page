@@ -1,0 +1,178 @@
+/*Tesla page CSS Part*/
+
+.d1 {
+    background-image: radial-gradient(54.97% 272.54% at 27.36% -134.72%, rgba(108, 148, 255, .92)0, rgba(0, 0, 0, .92)100%);
+    color: rgb(255, 255, 255);
+    width: 100vw;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Gotham SSm;
+
+}
+
+.d3 {
+    font-size: 17px;
+    font-weight: 500;
+    margin-left: -32px;
+}
+
+.d4 {
+    font-size: 14px;
+}
+
+.a1 {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-underline-offset: 3px;
+}
+
+.d2 {
+    width: 100vw;
+    height: 92vh;
+    background-color: transparent;
+    position: fixed;
+}
+
+.video {
+    width: 100vw;
+    height: 92vh;
+    object-fit: cover;
+    position: fixed;
+}
+
+body {
+    margin: 0;
+}
+
+.img1 {
+    width: 120px;
+    margin-left: 48px;
+    margin-top: 23px;
+    cursor: pointer;
+}
+
+.list1 {
+    list-style: none;
+    margin-left: 413px;
+    margin-top: -17px;
+}
+
+.li1 {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family: Gotham SSm;
+    font-weight: 500;
+    display: inline;
+    margin-left: 25px;
+    cursor: pointer;
+}
+
+.list2 {
+    list-style: none;
+    margin-left: 1165px;
+    margin-top: -37px;
+    display: flex;
+}
+
+.li2 {
+    width: 23px;
+    margin-left: 15px;
+}
+
+.d5 {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-family: Gotham SSm;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    margin-left: -18px;
+    margin-top: 20px;
+}
+
+.d6 {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: Gotham SSm;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    margin-left: -18px;
+    margin-top: 3px;
+}
+
+.d7 {
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-family: Gotham SSm;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    margin-left: -18px;
+    margin-top: 3px;
+}
+
+.d8 {
+    display: flex;
+    justify-content: center;
+    margin-top: 315px;
+    margin-left: -15px;
+    ;
+}
+
+.btn1 {
+    width: 265px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-size: 14px;
+    font-family: Gotham SSm;
+    font-weight: 500;
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.btn2 {
+    width: 265px;
+    height: 40px;
+    margin-left: 25px;
+    background-color: rgb(31, 30, 30);
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family: Gotham SSm;
+    font-weight: 500;
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.d9 {
+    color: white;
+    font-size: 12px;
+    font-family: Gotham SSm;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    margin-left: -15px;
+}
+
+.d10 {
+    display: flex;
+    justify-content: center;
+    margin-left: -18px;
+    margin-top: 2px;
+}
+
+.a2 {
+    color: white;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: Gotham SSm;
+    text-underline-offset: 3px;
+}
